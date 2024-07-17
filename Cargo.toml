@@ -1,0 +1,7 @@
+[package]
+name = "overlapping-encodings"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+boolean_expression = "*"
